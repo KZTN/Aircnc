@@ -4,11 +4,13 @@
   "main": "server.js",
   "license": "MIT",
   "scripts": {
-  "start": "nodemon bin/dev"
+    "start": "nodemon bin/dev"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.9.7",
+    "multer": "^1.4.2"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
