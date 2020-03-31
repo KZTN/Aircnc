@@ -57,6 +57,12 @@ body, input, button {
   margin-bottom: 8px;
 }
 
+.content form label span {
+  font-weight: normal;
+  color: #999;
+  font-size: 11px;
+}
+
 .content form input {
   margin-bottom: 20px;
   border: 1px solid #ddd;
@@ -66,7 +72,7 @@ body, input, button {
   font-size: 16px;
 }
 
-.content form button.btn {
+.content .btn {
   border: 0;
   border-radius: 2px;
   width: 100%;
@@ -80,6 +86,6 @@ body, input, button {
   transition: filter 0.2s;
 }
 
-.content form button.btn:hover {
+.content .btn:hover {
   filter: brightness(90%);
 }
