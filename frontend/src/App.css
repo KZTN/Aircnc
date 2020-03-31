@@ -77,4 +77,9 @@ body, input, button {
   background: #f05a5b;
   color: #fff;
   cursor: pointer;
+  transition: filter 0.2s;
+}
+
+.content form button.btn:hover {
+  filter: brightness(90%);
 }
