@@ -68,4 +68,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
-<p align="center">Feito com ♥ por [Rocketseat](rocketseat.com.br/) & [KZTN](https://github.com/KZTN) </p>
+<span align="center">Feito com ♥ por  [Rocketseat](https://rocketseat.com.br/)  & [KZTN](https://github.com/KZTN)</span>
